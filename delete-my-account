@@ -1,0 +1,9 @@
+Hello, we are SoftUpgrade EMarket app. Unfortunately, we are providing a way for our users to delete their account and all the data they have provided on our app. The process of deletion can be done in these steps:
+
+1-After you sign up or log in to our app.
+2-Go to your profile, which can be found at the end of the bottom navigation bar.
+3-You will find a delete icon at the end of the list.
+4-Press the delete icon, and an alert dialog will be shown, asking you to confirm the operation or cancel.
+5-Finally, if you press delete, all your data and your account will be deleted.
+
+  
